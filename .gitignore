@@ -1,0 +1,16 @@
+.tools/
+.signing/
+build/
+dist/
+*.apk
+*.idsig
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.dpapi
+.env*
+local.properties
+*.log
+.idea/
+.vscode/

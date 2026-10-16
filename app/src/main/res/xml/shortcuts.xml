@@ -1,0 +1,4 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:shortcutId="compass" android:enabled="true" android:icon="@drawable/icon_mono" android:shortcutShortLabel="@string/shortcut_compass"><intent android:action="app.meridian.OPEN_COMPASS" android:targetPackage="app.meridian" android:targetClass="app.meridian.MainActivity"/></shortcut>
+    <shortcut android:shortcutId="elevation" android:enabled="true" android:icon="@drawable/icon_mono" android:shortcutShortLabel="@string/shortcut_elevation"><intent android:action="app.meridian.OPEN_ELEVATION" android:targetPackage="app.meridian" android:targetClass="app.meridian.MainActivity"/></shortcut>
+</shortcuts>

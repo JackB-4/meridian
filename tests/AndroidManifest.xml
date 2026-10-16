@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="app.meridian.test">
+  <uses-sdk android:minSdkVersion="28" android:targetSdkVersion="36"/>
+  <application android:label="Meridian test suite"/>
+  <instrumentation android:name="app.meridian.SmokeInstrumentation" android:targetPackage="app.meridian" android:label="Meridian tests"/>
+</manifest>
