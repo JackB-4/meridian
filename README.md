@@ -1,4 +1,4 @@
-<h1><img src="docs/meridian-logo.svg" alt="Meridian compass logo" width="48" height="48" align="absmiddle"> Meridian</h1>
+<h1><img src="docs/meridian-logo-round.svg" alt="Meridian compass logo" width="48" height="48" align="absmiddle"> Meridian</h1>
 
 A minimal, configurable native Android compass with elevation and practical navigation readouts. Designed with Pixel 10 Pro sensors in mind; supports Android 9 and later.
 
