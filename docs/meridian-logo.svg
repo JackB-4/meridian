@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="108" viewBox="0 0 108 108" role="img" aria-labelledby="title">
+  <title id="title">Meridian compass logo</title>
+  <rect width="108" height="108" fill="#000000"/>
+  <path d="M54,28 A26,26 0,1 1,54,80 A26,26 0,1 1,54,28" stroke="#FFFFFF" stroke-width="1.8" fill="none"/>
+  <path d="M54,33 L64,61 L54,56 L44,61 Z" fill="#FFFFFF"/>
+  <path d="M44,63 L54,58 L64,63 L54,75 Z" fill="#888888"/>
+</svg>
