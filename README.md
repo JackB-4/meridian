@@ -10,6 +10,8 @@ Download **Meridian-1.2.apk** from the [latest release](https://github.com/JackB
 
 ## Obtainium
 
+<a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium%3A%2F%2Fapp%2F%257B%2522id%2522%253A%2522app.meridian%2522%252C%2522url%2522%253A%2522https%253A%252F%252Fgithub.com%252FJackB-4%252Fmeridian%2522%252C%2522author%2522%253A%2522JackB-4%2522%252C%2522name%2522%253A%2522Meridian%2522%257D"><img src="docs/add-to-obtainium.svg" alt="Add Meridian to Obtainium" width="176" height="40"></a>
+
 In [Obtainium](https://github.com/ImranR98/Obtainium), choose **Add App** and enter:
 
 ```
