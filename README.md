@@ -2,6 +2,10 @@
 
 A minimal, configurable native Android compass with elevation and practical navigation readouts. Designed with Pixel 10 Pro sensors in mind; supports Android 9 and later.
 
+<img src="docs/meridian-screenshot.png" alt="Meridian in dark mode, showing its compass dial, heading controls, and configurable navigation data grid" width="320">
+
+*Meridian 1.2 running in an Android 16 emulator with simulated sensor readings.*
+
 ## Install
 
 Download **Meridian-1.2.apk** from the [latest release](https://github.com/JackB-4/meridian/releases/latest), open it on Android, and allow installation from that file source if asked. Install over an existing Meridian copy to retain settings. The release uses the original signing identity and package `app.meridian`.
